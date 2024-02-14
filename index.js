@@ -6,7 +6,7 @@ const token = '6770868959:AAHY16Ea5odSPbOrEi8vjvzMu1mT3jMCIOs'
 
 const bot = new TelegramBot(token, { polling: true })
 
-
+~
 const home = JSON.stringify({
   resize_keyboard: true,
   keyboard: [
